@@ -1,0 +1,48 @@
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\bin\Debug\tvims.exe.config
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\bin\Debug\tvims.exe
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\bin\Debug\tvims.pdb
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\obj\Debug\tvims.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\obj\Debug\tvims.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\obj\Debug\tvims.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\obj\Debug\tvims.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\obj\Debug\tvims.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\obj\Debug\tvims.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\obj\Debug\tvims.exe
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\obj\Debug\tvims.pdb
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\bin\Debug\MathNet.Numerics.dll
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\bin\Debug\MathNet.Numerics.xml
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Рабочий стол\tvims\tvims\obj\Debug\tvims.csproj.CopyComplete
+E:\тервер\tvims\tvims\bin\Debug\tvims.exe.config
+E:\тервер\tvims\tvims\bin\Debug\tvims.exe
+E:\тервер\tvims\tvims\bin\Debug\tvims.pdb
+E:\тервер\tvims\tvims\bin\Debug\MathNet.Numerics.dll
+E:\тервер\tvims\tvims\bin\Debug\System.ValueTuple.dll
+E:\тервер\tvims\tvims\bin\Debug\MathNet.Numerics.xml
+E:\тервер\tvims\tvims\bin\Debug\System.ValueTuple.xml
+E:\тервер\tvims\tvims\obj\Debug\tvims.csproj.AssemblyReference.cache
+E:\тервер\tvims\tvims\obj\Debug\tvims.csproj.SuggestedBindingRedirects.cache
+E:\тервер\tvims\tvims\obj\Debug\tvims.Form1.resources
+E:\тервер\tvims\tvims\obj\Debug\tvims.Properties.Resources.resources
+E:\тервер\tvims\tvims\obj\Debug\tvims.csproj.GenerateResource.cache
+E:\тервер\tvims\tvims\obj\Debug\tvims.csproj.CoreCompileInputs.cache
+E:\тервер\tvims\tvims\obj\Debug\tvims.csproj.CopyComplete
+E:\тервер\tvims\tvims\obj\Debug\tvims.exe
+E:\тервер\tvims\tvims\obj\Debug\tvims.pdb
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\bin\Debug\tvims.exe.config
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\bin\Debug\tvims.exe
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\bin\Debug\tvims.pdb
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\bin\Debug\MathNet.Numerics.dll
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\bin\Debug\MathNet.Numerics.xml
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\obj\Debug\tvims.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\obj\Debug\tvims.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\obj\Debug\tvims.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\obj\Debug\tvims.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\obj\Debug\tvims.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\obj\Debug\tvims.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\obj\Debug\tvims.csproj.CopyComplete
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\obj\Debug\tvims.exe
+C:\Users\User\OneDrive\Рабочий стол\университет\3 курс\ТВиМС\tvims\tvims\obj\Debug\tvims.pdb
